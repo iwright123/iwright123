@@ -1,6 +1,6 @@
 About Me!
 
-Hi, I'm Ian! I'm a software developer from New Orleans with a passion for coding, sports, cooking and gaming.I have a background in agriculture, automotive repair, landscape and software development! 
+Hi, I'm Ian! I'm a software developer from New Orleans with a passion for coding, sports, cooking and gaming. I have a background in agriculture, automotive repair, landscape and software development! 
 
 I usually spend my time surroneded by family when I'm not coding or gaming. On a typical day, most of my time is spent working on various of projects that can range from using M.E.R.N stack to getting my hands drity around the house. What doesn't change is the two daily walks me and my dog take to help relax and get some fresh air! 
 
